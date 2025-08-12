@@ -1,2 +1,2 @@
 # DCHITS
-Algorithm to evaluate the importance of distribution network nodes
+a algorithm to evaluate the importance of distribution network nodes
